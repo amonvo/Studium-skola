@@ -4,10 +4,10 @@ HTTP, metody GET & POST (html form), Model, atributy (REQUIRED, RANGE), Int? - n
 
 Protokol HTTP:
 https://www.freecodecamp.org/news/http-request-methods-explained/
+GET, POST, PUT 
+HEAD, BODY, REQUEST, RESPONSE.
 
-Důležité je pochopení GET, POST, PUT a rozdílu mezi nimi. Dále HEAD a BODY, REQUEST, RESPONSE.
-
-Jak funguje SSL (HTTPS): 
+SSL
 https://www.tutorialsteacher.com/https/how-ssl-works
 
 Razor Pages
