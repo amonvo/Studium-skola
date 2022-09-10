@@ -3,7 +3,8 @@
 HTTP, metody GET & POST (html form), Model, atributy (REQUIRED, RANGE), Int? - nullable, Modifiers, Page()
 
 Protokol HTTP:
-https://www.freecodecamp.org/news/http-request-methods-explained/
+https://www.freecodecamp.org/news/http-request-methods-explained
+
 GET, POST, PUT 
 HEAD, BODY, REQUEST, RESPONSE.
 
